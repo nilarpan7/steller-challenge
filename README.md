@@ -51,19 +51,9 @@ https://friendbot.stellar.org?addr=YOUR_PUBLIC_KEY
 ## Screenshots
 
 ### Wallet Connected + Balance Displayed
-> Freighter connected — address `GCQM3X...ECUQ` shown with **16100.00 XLM** balance in the navbar.
+> Freighter connected — wallet address shown with XLM balance in the navbar.
 
 ![Wallet Connected](screenshots/wallet-connected.png)
-
-### Successful Testnet Transaction
-> Transaction `61f567422ff27be2bf546919582bd3b7d018c446218dcfba0894af4257176efb` confirmed on Stellar Testnet — sent 5,000 XLM, status: Successful.
-
-![Transaction Explorer](screenshots/transaction-explorer.png)
-
-### Balance Updated After Transaction
-> Balance updated to **11100.00 XLM** after the 5,000 XLM payment was sent.
-
-![Balance Updated](screenshots/balance-updated.png)
 
 ### Freighter Transaction Confirmation
 > Freighter popup asking the user to confirm the XLM payment — shows wallet, fee (0.00001 XLM), and transaction details before signing.
@@ -71,9 +61,14 @@ https://friendbot.stellar.org?addr=YOUR_PUBLIC_KEY
 ![Freighter Confirm](screenshots/freighter-confirm.png)
 
 ### Transaction Successful Result
-> Success banner showing transaction hash `5118e6981a5c6c39ecbc2ac822157eb8c307f1ef7880cfc4cc92a48a30c277cc` with a direct link to Stellar Expert explorer.
+> Success banner showing transaction hash with a direct link to Stellar Expert explorer.
 
 ![Transaction Success](screenshots/transaction-success.png)
+
+### Transaction on Stellar Expert
+> Transaction confirmed on Stellar Testnet — viewable on Stellar Expert explorer with full details.
+
+![Transaction Explorer](screenshots/transaction-explorer.png)
 
 ---
 
